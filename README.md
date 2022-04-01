@@ -1,3 +1,3 @@
-# SampleRepo
+# Stuffs
 
-A new repo for practicing together with LearningGitColab
+A repo to save learning stuffs
